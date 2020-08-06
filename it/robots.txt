@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /css/
+Disallow: send.php
+Disallow: sendnum.php
+Disallow: writeaut.php
+Disallow: message.db
+
+User-agent: Yandex
+Disallow: /css/
+Disallow: send.php
+Disallow: sendnum.php
+Disallow: writeaut.php
+Disallow: message.db
+Host: remopay.hol.es
